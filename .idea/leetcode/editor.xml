@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[1621]大小为 K 的不重叠线段的数目.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[1621]大小为 K 的不重叠线段的数目.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1621" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[1621]大小为 K 的不重叠线段的数目.go" />
+              <option name="titleSlug" value="number-of-sets-of-k-non-overlapping-line-segments" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[1774]最接近目标价格的甜点成本.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[1774]最接近目标价格的甜点成本.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1774" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[1774]最接近目标价格的甜点成本.go" />
+              <option name="titleSlug" value="closest-dessert-cost" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[313]超级丑数.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[313]超级丑数.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com313" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[313]超级丑数.go" />
+              <option name="titleSlug" value="super-ugly-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[343]整数拆分.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[343]整数拆分.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com343" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[343]整数拆分.go" />
+              <option name="titleSlug" value="integer-break" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[面试题 05.03]翻转数位.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[面试题 05.03]翻转数位.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com面试题 05.03" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[面试题 05.03]翻转数位.go" />
+              <option name="titleSlug" value="reverse-bits-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[面试题 08.01]三步问题.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[面试题 08.01]三步问题.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com面试题 08.01" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[面试题 08.01]三步问题.go" />
+              <option name="titleSlug" value="three-steps-problem-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[面试题 17.16]按摩师.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[面试题 17.16]按摩师.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com面试题 17.16" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[面试题 17.16]按摩师.go" />
+              <option name="titleSlug" value="the-masseuse-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
